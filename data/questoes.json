@@ -1,0 +1,19 @@
+[
+  {
+    "enunciado":"Primeira questao...",
+    "respostaCorreta":"Opcao 1.1",
+    "opcoes":["Opcao 1.2","Opcao 1.3","Opcap 1.4"]
+  },
+    {
+    "enunciado":"Segunda questao...",
+    "respostaCorreta":"Opcao 2.1",
+    "opcoes":["Opcao 2.2","Opcao 2.3","Opcap 2.4"]
+  },
+    {
+    "enunciado":"Terceira questao...",
+    "respostaCorreta":"Opcao 3.1",
+    "opcoes":["Opcao 3.2","Opcao 3.3","Opcap 3.4"]
+  }
+  
+
+]
